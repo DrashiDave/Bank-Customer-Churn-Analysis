@@ -7,8 +7,9 @@ Customer churn or customer attrition is the loss of customers and is one of the 
 One of the persistent organizational problems among banks is that of customer attrition. Analytically, this project identifies essentials like credit score, location, age and balance to see which of these affects the decision of a customer to churn. Analyzing these variables, it is our intention to discover patterns valuable for customer retention.
 
 ## Dataset
-Source: Kaggle
-Description: The dataset includes features like credit score, geography, gender, age, tenure, balance, product count, credit card ownership, activity status, and estimated salary. The target variable is whether the customer has churned.
+**Source:**  Kaggle
+
+**Description:** The dataset includes features like credit score, geography, gender, age, tenure, balance, product count, credit card ownership, activity status, and estimated salary. The target variable is whether the customer has churned.
 
 ## Project Workflow
 
